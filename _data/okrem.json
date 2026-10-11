@@ -1,0 +1,16 @@
+[
+  {
+    "nazov": "Prípravné práce",
+    "text": "Pred obkladmi, podlahami či maľovaním pripravíme priestor a podklad, aby sa dalo hneď pokračovať.",
+    "cislo": "6",
+    "material": "podklad, stierka",
+    "vzorka": "vz-podklad.jpg"
+  },
+  {
+    "nazov": "Preprava do 3,5 t",
+    "text": "Dodávkou do 3,5 t prevezieme materiál na stavbu alebo veci pri rekonštrukcii.",
+    "cislo": "7",
+    "material": "dodávka do 3,5 t",
+    "vzorka": ""
+  }
+]

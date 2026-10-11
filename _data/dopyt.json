@@ -1,0 +1,27 @@
+{
+  "miestnosti": [
+    "Kúpeľňa",
+    "WC",
+    "Kuchyňa",
+    "Izba",
+    "Chodba",
+    "Celý byt",
+    "Dom",
+    "Exteriér"
+  ],
+  "prace": [
+    "Obklady a dlažby",
+    "Podlahy",
+    "Maľovanie a stierky",
+    "Sadrokartón",
+    "Exteriér",
+    "Prípravné práce",
+    "Preprava"
+  ],
+  "poslite": [
+    "fotku miestnosti, stačí z mobilu",
+    "približnú plochu v m²",
+    "či už máte vybraný materiál",
+    "kedy by ste chceli začať"
+  ]
+}

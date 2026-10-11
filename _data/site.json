@@ -1,0 +1,50 @@
+{
+  "slug": "sk-sps-trans",
+  "nazev": "Peter Suja - SPS Trans",
+  "url": "https://webhunter-navrhy.github.io/sk-sps-trans/",
+  "base": "/sk-sps-trans/",
+  "lang": "sk",
+  "popis": "Dokončovacie práce v Bratislave: obklady a dlažby, podlahy, maľovanie a stierky, sadrokartón. Peter Suja – SPS Trans, Rača. Pošlite fotku miestnosti a dopyt.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "og.jpg",
+  "logo": "",
+  "theme_color": "#f2eee7",
+  "typ": "HomeAndConstructionBusiness",
+  "ico": "47685522",
+  "kontakt": {
+    "email": "peter.s33@azet.sk",
+    "telefon": "+421 951 834 368",
+    "adresa": {
+      "ulice": "Karpatské námestie 7770/10A",
+      "psc": "831 06",
+      "mesto": "Bratislava – Rača",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [
+    "https://www.zlatestranky.sk/firmy/Bratislava/H3121856/Peter+Suja+-+SPS+Trans/"
+  ],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu – dokončovacie práce"
+  },
+  "nav": [
+    {
+      "text": "Služby",
+      "href": "#vzorky"
+    },
+    {
+      "text": "Dopyt",
+      "href": "#dopyt"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ],
+  "majitel": "Peter Suja"
+}

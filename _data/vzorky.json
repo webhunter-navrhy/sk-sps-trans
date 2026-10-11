@@ -1,0 +1,87 @@
+[
+  {
+    "id": "obklady",
+    "cislo": "1",
+    "nazov": "Obklady a dlažby",
+    "material": "keramika, dlažba",
+    "vzorka": "vz-obklad.jpg",
+    "vzorka2": "vz-dlazba.jpg",
+    "foto": "kupelna.jpg",
+    "foto_alt": "Obkladačky a kladivo pri kladení obkladu (ilustračná fotka)",
+    "text": "Kúpeľne, WC, kuchynské zásteny aj podlahy z dlažby. Obklad si vyberiete v predajni, my ho položíme na pripravený podklad a vyškárujeme.",
+    "hodi": [
+      "kúpeľňa",
+      "WC",
+      "kuchyňa",
+      "chodba"
+    ],
+    "kratko": "Obklad"
+  },
+  {
+    "id": "podlahy",
+    "cislo": "2",
+    "nazov": "Podlahy",
+    "material": "laminát, vinyl, drevo",
+    "vzorka": "vz-drevo.jpg",
+    "foto": "podlaha.jpg",
+    "foto_alt": "Remeselník kladie podlahu (ilustračná fotka)",
+    "text": "Plávajúce podlahy z laminátu, vinylu alebo dreva vrátane prípravy podkladu, podložky a líšt. Ak treba podklad vyrovnať, povieme Vám to vopred.",
+    "hodi": [
+      "izba",
+      "obývačka",
+      "spálňa",
+      "detská izba"
+    ],
+    "kratko": "Drevo"
+  },
+  {
+    "id": "steny",
+    "cislo": "3",
+    "nazov": "Maľovanie a stierky",
+    "material": "omietka, stierka, farba",
+    "vzorka": "vz-omietka.jpg",
+    "foto": "steny.jpg",
+    "foto_alt": "Práca z rebríka v bielej miestnosti (ilustračná fotka)",
+    "text": "Vyspravenie stien, stierky a maľovanie bytov a domov, od jednej izby po celý byt.",
+    "hodi": [
+      "celý byt",
+      "chodba",
+      "schodisko",
+      "nové steny"
+    ],
+    "kratko": "Omietka"
+  },
+  {
+    "id": "sadrokarton",
+    "cislo": "4",
+    "nazov": "Sadrokartón",
+    "material": "sadrokartónové dosky",
+    "vzorka": "vz-sadrokarton.jpg",
+    "foto": "sadrokarton.jpg",
+    "foto_alt": "Kovové profily pre sadrokartónové priečky a podhľad (ilustračná fotka)",
+    "text": "Podhľady, priečky a predsteny, napríklad na zakrytie rozvodov v kúpeľni. Spoje vytmelíme tak, aby sa stena dala hneď maľovať.",
+    "hodi": [
+      "podhľad",
+      "priečka",
+      "predstena",
+      "kúpeľňa"
+    ],
+    "kratko": "Sadrokartón"
+  },
+  {
+    "id": "exterier",
+    "cislo": "5",
+    "nazov": "Exteriér",
+    "material": "kameň, dlažba",
+    "vzorka": "vz-kamen.jpg",
+    "foto": "kamen.jpg",
+    "foto_alt": "Škárovanie dlažby na terase (ilustračná fotka)",
+    "text": "Dokončovacie práce aj vonku, napríklad obklad sokla alebo dlažba na terase. Napíšte nám, čo riešite, a pošlite fotku.",
+    "hodi": [
+      "terasa",
+      "sokel",
+      "vstup do domu"
+    ],
+    "kratko": "Kameň"
+  }
+]

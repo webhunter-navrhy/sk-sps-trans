@@ -1,0 +1,30 @@
+{
+  "firma": "Peter Suja - SPS Trans",
+  "majitel": "Peter Suja (živnostník, fyzická osoba – podnikateľ)",
+  "obor": "dokončovacie stavebné práce v interiéri a exteriéri; doplnkovo nákladná doprava do 3,5 t",
+  "mesto": "Bratislava – Rača",
+  "ico": "47685522",
+  "kontakty": {"telefon": "+421 951 834 368", "email": "peter.s33@azet.sk", "adresa": "Karpatské námestie 7770/10A, 831 06 Bratislava"},
+  "web": null,
+  "cilova_skupina": "domácnosti v Bratislave (byty, rodinné domy), ktoré riešia rekonštrukciu alebo dokončenie interiéru",
+  "ton": "vecný, pokojný, remeselnícky; bez marketingových fráz",
+  "brand": {"logo": null, "barvy": "žiadne (bez webu a loga) -> neutrálna paleta omietka + grafit + terakota z dlažby", "claim": null},
+  "fotky_klienta": "žiadne; ilustračné fotky z Unsplash (podklady/stock/zdroje.json), vybrané už pre kampaň dokončovacie práce",
+  "fakta": [
+    {"fakt": "Kategória: Stavebníctvo – dokončovacie práce, Bratislava", "zdroj": "https://www.zlatestranky.sk/firmy/Bratislava/H3121856/Peter+Suja+-+SPS+Trans/"},
+    {"fakt": "Adresa Karpatské námestie 7770/10A, 831 06 Bratislava (Rača), tel. +421 951 834 368, e-mail peter.s33@azet.sk", "zdroj": "Zlaté stránky + RPO (api.statistics.sk)"},
+    {"fakt": "IČO 47685522, živnosť od 10. 2. 2014 (prerušená/obnovená, aktuálna od 20. 5. 2026)", "zdroj": "RPO api.statistics.sk, RÚZ"},
+    {"fakt": "Živnosť: Dokončovacie stavebné práce pri realizácii exteriérov a interiérov", "zdroj": "RPO"},
+    {"fakt": "Živnosť: Prípravné práce k realizácii stavby", "zdroj": "RPO"},
+    {"fakt": "Živnosť: Nákladná cestná doprava vozidlami do 3,5 t (názov SPS Trans)", "zdroj": "RPO"},
+    {"fakt": "Klient odpovedal „Ano“ na ukážku s obkladmi, dlažbami, podlahami, maľovaním a sadrokartónom (smer sa mu páči)", "zdroj": "mail UID 8627, 6. 10. 2026"}
+  ],
+  "nepouzite": "Ostatné voľné živnosti z RPO (výroba, ubytovanie, účtovníctvo…) – zjavne balík voľných živností, nie reálna činnosť. Žiadne recenzie, roky praxe ani počty zákaziek.",
+  "chybi": [
+    "fotky z Vašich realizácií (kúpeľne, podlahy, steny – pokojne z mobilu)",
+    "potvrdenie služieb: ktoré práce naozaj robíte (obklady, dlažby, podlahy, maľovanie, sadrokartón, exteriér, preprava)",
+    "oblasť pôsobenia (len Bratislava, alebo aj okolie)",
+    "pár viet o sebe, ak chcete (inak necháme vecný text)",
+    "logo, ak nejaké máte"
+  ]
+}
